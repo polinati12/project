@@ -118,3 +118,14 @@ footer {
     justify-content: center;
     color: white;
 }
+
+#color{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 50%;
+}
+
+#color:hover{
+    border-radius: 50px;
+    transform: scale(1);
+}
